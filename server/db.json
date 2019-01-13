@@ -1,0 +1,26 @@
+{
+  "streams": [
+    {
+      "title": "reduxThunk",
+      "description": "4th test",
+      "id": 1
+    },
+    {
+      "title": "I created this streams",
+      "description": "This was made by me",
+      "userId": null,
+      "id": 4
+    },
+    {
+      "title": "I created this streams",
+      "description": "This was refactored",
+      "id": 5
+    },
+    {
+      "title": "rege",
+      "description": "regqr",
+      "userId": "109107406219558620994",
+      "id": 6
+    }
+  ]
+}
